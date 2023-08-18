@@ -21,4 +21,4 @@ If you use this code in your own work, please cite our paper:
 
 ---
 
-Copyright (c) 2022-2023. All rights reserved.
+MIT License. Copyright (c) 2023 Eric Easthope.
