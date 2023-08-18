@@ -1,0 +1,3 @@
+pynwb
+scipy
+resampy
